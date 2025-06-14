@@ -10,7 +10,7 @@ import java.net.InetSocketAddress;
 public class StudentQaServer {
 
     private static final int PORT = 8080; 
-    private static final String CONTEXT_PATH = "/api";
+    private static final String CONTEXT_PATH = "/sanjana-tds-project1";
 
     public static void main(String[] args) {
         try {
